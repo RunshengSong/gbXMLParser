@@ -1,0 +1,3 @@
+include gbXMLParser/ThorV2ConsoleBin/bin/Release/ThorV2Console.exe
+include gbXMLParser/ThorV2ConsoleBin/bin/Release/ThorV2Console.exe.config
+include gbXMLParser/ThorV2ConsoleBin/bin/Release/ThorV2Console.pdb
